@@ -1,0 +1,23 @@
+Name
+price
+Qty
+Brand
+
+data Attribute use (html to js carry data)
+JSON javascript Object Notation
+{name:"mg mg",email:"mgmg@gmail.com"}
+
+JSON.parse() string to object
+JSON.stringify() object to string
+
+
+LocalStorage
+------------
+string လက်ခံ
+LocalStorage.getItem() data from localstorage
+LocalStorage.setItem() data to localstorage
+
+push used to add data to array
+
+jquery
+forEach loop($.each(array,function(i,v)))
